@@ -1,11 +1,11 @@
 {
-  "name": "FreshGro",
+  "name": "shopping-cart",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node app"
   },
-  "description": "FreshGro",
+  "description": "Shopping-Cart",
   "author": "",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -27,7 +27,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saujanyasood/FreshGro.git"
+    "url": "git+https://github.com/EunsooJung/Shopping-Cart.git"
   },
   "keywords": [
     "Sequelize",
@@ -35,8 +35,9 @@
     "node.js",
     "sqlite3"
   ],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saujanyasood/FreshGro/issues"
+    "url": "https://github.com/EunsooJung/Shopping-Cart/issues"
   },
-  "homepage": "https://github.com/saujanyasood/FreshGro#readme"
+  "homepage": "https://github.com/EunsooJung/Shopping-Cart#readme"
 }
